@@ -9,8 +9,6 @@ Welcome to my data portfolio. I thrive on intensity—whether I’m wrangling me
 ## ⚔️ Core Skills  
 
 - **Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)** → clean, analyze & visualize data  
-- **SQL** → query optimization & business reporting  
-- **Excel & Google Sheets** → fast analytics, pivot tables, automation  
 - **EDA & Data Storytelling** → turn raw numbers into insights recruiters and decision-makers can act on  
 
 ---
@@ -19,11 +17,12 @@ Welcome to my data portfolio. I thrive on intensity—whether I’m wrangling me
 
 | 📅 Date | 📂 Project | 🏷️ Type | 🛠️ Tech | 📊 Outcome |
 |---------|-----------|---------|---------|------------|
-| 2025-08-11 | [Economic Data Analysis from FRED](./Economic-Data-Analysis-from-FRED/README.md) | **Finance / EDA** | Python (Pandas, Plotly) | Identified economic trends & visualized 30+ indicators |
-| 2025-08-15 | [Hotel Booking Analysis](./Exploratory_Data_Analysis_in_Python_for_Absolute_Beginners_DataCamp_Code_Along/README.md) | **Hospitality / EDA** | Python (Pandas, Seaborn) | Found high-risk deposit type with ~99% cancellations |
-| 2025-08-17 | [English Premier League Analysis](./English_Premium_League_Analysis/README.md) | **Sports Analytics / EDA** | Python (Pandas, Seaborn, Matplotlib) | Proved GD ↔ Points correlation of 0.99 & qualification benchmarks |
+| 2025-08-11 | [Economic Data Analysis from FRED](./Data_Analysis_XP_Projects/Economic-Data-Analysis-from-FRED/README.md) | **Finance / EDA** | Python (Pandas, Plotly) | Identified economic trends & visualized 30+ indicators |
+| 2025-08-15 | [Hotel Booking Analysis](./Data_Analysis_XP_Projects/Exploratory_Data_Analysis_in_Python_for_Absolute_Beginners_DataCamp_Code_Along/README.md) | **Hospitality / EDA** | Python (Pandas, Seaborn) | Found high-risk deposit type with ~99% cancellations |
+| 2025-08-17 | [English Premier League Analysis](./Data_Analysis_XP_Projects/English_Premium_League_Analysis/README.md) | **Sports Analytics / EDA** | Python (Pandas, Seaborn, Matplotlib) | Proved GD ↔ Points correlation of 0.99 & qualification benchmarks |
 
 👉 Full project list in this repo. Each project includes **data cleaning, visualizations, and key business insights**.  
+https://github.com/achrafnoui/Data_Analysis_XP_Projects
 
 ---
 
