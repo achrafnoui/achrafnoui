@@ -1,56 +1,51 @@
-# Achraf Noui 💪  
+# ACHRAF NOUI – DATA ANALYST TITAN
 
-**Data Analyst | Educator | Relentless Competitor**  
+**Data Analyst | Educator | Relentless Competitor**
 
-Welcome to my data portfolio. I thrive on intensity—whether I’m wrangling messy datasets, breaking down insights for students, or pushing my body past limits. Every project here is built with **discipline, precision, and impact in mind**.  
+I’m Achraf Noui — a precision-driven Data Analyst who dominates complex datasets and delivers high-impact, actionable insights that move the needle. Discipline, razor-sharp focus, and measurable results define my standard. Former educator — I transform complicated data into clear, confident decisions for leaders who don’t settle for average. My edge is earned through relentless training and problem-solving. I don’t play — I win.
 
----
+## CONTACT
+- **LinkedIn**: [Achraf Noui](https://www.linkedin.com/in/achrafnoui/)  ==> **linkedin.com/in/achrafnoui**
+- **GitHub**: [achrafnoui](https://github.com/achrafnoui)  ==>  **github.com/achrafnoui**
+- **Email**: achrafnouiprof@gmail.com  
+- **Phone**: +213 794 91 76 20  
+- **Location**: Ready to lead wherever elite analytics are required.
 
-## ⚔️ Core Skills  
+## PROFESSIONAL SUMMARY
+I turn raw data into strategic advantage. With a teaching background, I distill complex findings into concise, executive-ready plans that drive decisive action. Discipline forged through 5+ days/week of weight training and MMA-level strategy fuels my ability to outwork, outthink, and outperform. I learn rapidly, adapt instantly, and build solutions that deliver — no excuses, no mediocrity.
 
-- **Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)** → clean, analyze & visualize data  
-- **EDA & Data Storytelling** → turn raw numbers into insights recruiters and decision-makers can act on  
-- **Time Series Analysis** → reveal patterns & trends across time  
-- **Data Cleaning / Wrangling** → transform chaos into usable gold  
+## CORE COMPETENCIES
+- **Python**: Pandas, NumPy, Matplotlib, Seaborn, Plotly — expert-level cleaning, analysis & visualization  
+- **SQL**: Optimized queries and high-performance business reporting  
+- **Excel & Google Sheets**: Advanced pivot tables, automation, large-scale analytics  
+- **EDA & Data Storytelling**: Convert numbers into compelling narratives that empower bold, informed decisions
 
----
+## KEY PROJECTS – [View Full Portfolio → GitHub](https://github.com/achrafnoui/Data_Analysis_XP_Projects)
 
-## 🚀 Featured Projects  
+My work is battle-tested. Every project delivers clean code, powerful visuals, and strategic recommendations that win.
 
-| 📅 Date | 📂 Project | 🏷️ Type | 🛠️ Tech | 📊 Outcome |
-|---------|-----------|---------|---------|------------|
-| 2025-08-11 | [Economic Data Analysis with Python Pandas](https://github.com/achrafnoui/Data_Analysis_XP_Projects/blob/main/Economic-Data-Analysis-from-FRED/README.md) | **Finance / Data Analysis** | Pandas, Plotly Express | Built insights on economic trends |
-| 2025-08-15 | [Hotel Booking Analysis](https://github.com/achrafnoui/Data_Analysis_XP_Projects/blob/main/Exploratory_Data_Analysis_in_Python_for_Absolute_Beginners_DataCamp_Code_Along/README.md) | **Hospitality / EDA** | Pandas, Seaborn | Found cancellation factors in bookings |
-| 2025-08-17 | [English Premier League Analysis](https://github.com/achrafnoui/Data_Analysis_XP_Projects/blob/main/English_Premium_League_Analysis/README.md) | **Sports Analytics / EDA** | Pandas, Seaborn, Matplotlib | Discovered strong GD ↔ Points correlation (0.99) & qualification thresholds |
-| 2025-08-19 | [Time Series Analysis of the Thames River](https://github.com/achrafnoui/Data_Analysis_XP_Projects/blob/main/Analyzing_a_Time-Series_of_the_Thames_River_in_Python/README.md) | **Environmental / Time Series** | Pandas, Matplotlib, Seaborn | Identified rising flood risk with ~35% very high tide days (2000s) vs. ~3% (1890s) |
-| 2025-09-04 | [Audible Audiobooks Data Cleaning](https://github.com/achrafnoui/Data_Analysis_XP_Projects/blob/main/Audible_Audiobooks_Data_Cleaning/README.md) | **Data Cleaning / Wrangling** | Pandas, NumPy, Matplotlib | Transformed messy audiobook data into clean, analysis-ready dataset |
+| Date       | Project Name                        | Type                      | Tech Stack                  | Outcome                                                                 |
+|------------|-------------------------------------|---------------------------|-----------------------------|-------------------------------------------------------------------------|
+| 2025-08-11 | Economic Data Analysis from FRED    | Finance / EDA             | Python (Pandas, Plotly)     | Uncovered macro trends, visualized 30+ indicators for strategic clarity |
+| 2025-08-15 | Hotel Booking Analysis              | Hospitality / EDA         | Python (Pandas, Seaborn)    | Identified ~99% cancellation risk patterns → optimized booking strategy |
+| 2025-08-17 | English Premier League Analysis     | Sports Analytics / EDA    | Pandas, Seaborn, Matplotlib | Proved 0.99 goal-difference to points correlation + defined qualification thresholds |
+| 2025-08-19 | Time Series Analysis of the Thames River | Environmental / Time Series | Pandas, Matplotlib, Seaborn | Revealed ~35% very-high-tide days (2000s) vs ~3% (1890s) — clear flood risk escalation |
+| 2025-09-04 | Audible Audiobooks Data Cleaning    | Data Cleaning / Wrangling | Pandas, NumPy, Matplotlib   | Transformed messy raw data into clean, analysis-ready dataset via regex + feature engineering |
 
-👉 Full project list here:  
-[Data_Analysis_XP_Projects Repo](https://github.com/achrafnoui/Data_Analysis_XP_Projects)  
+Full notebooks, code & detailed breakdowns → [GitHub Repository](https://github.com/achrafnoui/Data_Analysis_XP_Projects)
 
----
+## MINDSET
+- Learn at speed. Adapt with precision.  
+- Obstacles are fuel — never roadblocks.  
+- Every deliverable is engineered for maximum impact.
 
-## 🔥 Mindset  
+## BEYOND THE DATA
+- **Weight Training** (5+ days/week): Iron discipline and unbreakable resilience  
+- **MMA Enthusiast**: Strategic thinking, focus under pressure, relentless drive  
+- **MTB Engineering**: Mechanical problem-solving with surgical precision  
+- **Former Educator**: Expert at explaining sophisticated concepts with total clarity
 
-- Learn fast. Adapt faster.  
-- Turn obstacles into stepping stones.  
-- Projects are built for **impact, not comfort**.  
+> “Success is not given. It is taken — through relentless effort and absolute focus.”  
+> – Achraf Noui
 
----
-
-## 🏋️ Outside the Code  
-
-- Weight training **5+ days/week** → discipline in action  
-- MMA enthusiast → strategy, precision, grit  
-- MTB tinkerer → problem-solving down to the bolts  
-- Former teacher → I can explain complex data so anyone gets it  
-
----
-
-## 🕸️ Connect  
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/achrafnoui/)  
-
----
-
-> **“Success isn’t handed out. You fight for it, you earn it, you OWN it.”**
+Hire me to elevate your data strategy with unmatched precision, speed, and dominance.
